@@ -1,0 +1,22 @@
+.navbar-text{
+ 
+}
+
+.volver{
+ font-size: 80%;
+}
+
+.imagenes-videojuegos{
+	height:90%;
+	width: 90%;
+	margin:5%;
+	border: solid 0.5px;
+	border-color: grey;
+}
+
+.imagen-grande{
+	height:170%;
+	width: 100%;
+	margin:5%;
+	padding-top:15%;
+}
